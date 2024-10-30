@@ -11,8 +11,8 @@ $toolBar = [
         // ['type'=>"bar"],
         //"trashDC"=>["icon"=>"<i class='fa fa-trash'></i>","tips"=>"Delete"],
         
-		"db1"=> ["title"=>"Database 1","type"=>"search","align"=>"left", "class"=>"dbfield",],
-		"db2"=> ["title"=>"Database 2","type"=>"search","align"=>"left", "class"=>"dbfield",],
+		"db1"=> ["title"=>"DBKey 1","type"=>"search","align"=>"left", "class"=>"dbfield",],
+		"db2"=> ["title"=>"DBKey 2","type"=>"search","align"=>"left", "class"=>"dbfield",],
         "loadDifferences"=>["icon"=>"<i class='fa fa-play'></i>","title"=>"Load Diff"],
         "generateSQLAlterQueries"=>["icon"=>"<i class='fa fa-code'></i>","title"=>"Generate Alter SQL"],
         
